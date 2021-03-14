@@ -7,3 +7,5 @@ Watch Tutorial on Roniel's Youtube Channel
 
 ## Local Development
 1.Open Index in your browser
+2. You may run into the edge
+
